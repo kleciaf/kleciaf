@@ -5,17 +5,12 @@
 
 Eu sou <strong>Klécia Farias</strong>, <strong> Full Stack Devops</strong> 👨🏻‍💻 
 
-- 🚀 Estou sempre aprendendo algo <strong>   </strong> 
-
-<div align="center">
-
-  <a href="#" alt="Gmail">
+- 🚀 <strong> "Sou uma entusiasta da área de TI e uma graduanda em Análise e Desenvolvimento de Sistemas, embarcando em uma emocionante transição de carreira. Meu objetivo é mergulhar de cabeça na programação, aproveitando minha criatividade e habilidades para impulsionar o crescimento de empresas inovadoras. Estou em busca de oportunidades como desenvolvedora de sistemas, pronta para deixar minha marca e fazer a diferença no mundo tecnológico."  </strong> 
+  <div align="center">
+    <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=kel.farias@hotmail.com"/></a>
 
-  <a href="#" alt="Linkedin">
+    <a href="#" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klecia-farias-paiva/" /></a>
-
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-
+   
 </div>
